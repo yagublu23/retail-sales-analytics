@@ -44,3 +44,19 @@ The main objective of this project is to transform retail sales data into meanin
 **Fariz Yagublu**
 
 [GitHub](https://github.com/yagublu23)
+
+---
+
+## Dashboard Preview
+
+### 1. Overview
+
+![Overview Dashboard](screenshots/overview.png)
+
+### 2. Product Analysis
+
+![Product Analysis Dashboard](screenshots/product.png)
+
+### 3. Customer Analysis
+
+![Customer Analysis Dashboard](screenshots/customer%20detail.png)
